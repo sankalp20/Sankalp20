@@ -9,12 +9,12 @@
 - 📫 Interesting Fact is am boring, don't expect fun fact here; Just Kidding 😁
 - 😄 Pronouns: He/His
 
-![Sankalp's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOS-RE&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FC6401&icon_color=7F1DA2&bg_color=0D111700)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOS-RE&theme=radical&title_color=F16707&hide_border=true" width="335px" data-canonical->
+![Sankalp's GitHub stats](https://github-readme-stats.vercel.app/api?username=sankalp20&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FC6401&icon_color=7F1DA2&bg_color=0D111700)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalp20&theme=radical&title_color=F16707&hide_border=true" width="335px" data-canonical->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JOS-RE&hide_border=true&background=0D111700&border=943BDD00&fire=CB0044&sideNums=FC6401&currStreakLabel=ff96e6e&currStreakNum=E7E7E7FF&sideLabels=EFEFE6&dates=4F5D78&stroke=7F1DA2)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sankalp20&hide_border=true&background=0D111700&border=943BDD00&fire=CB0044&sideNums=FC6401&currStreakLabel=ff96e6e&currStreakNum=E7E7E7FF&sideLabels=EFEFE6&dates=4F5D78&stroke=7F1DA2)](https://git.io/streak-stats)
 <br>
-<img align="right" src="https://komarev.com/ghpvc/?username=your-github-JOS-RE&style=flat-square&color=232323">
+<img align="right" src="https://komarev.com/ghpvc/?username=your-github-sankalp20&style=flat-square&color=232323">
 <hr>
 
 ### You can connect with me from _here_ 📧:
