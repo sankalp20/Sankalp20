@@ -3,7 +3,7 @@
 
 ### <p align="center"> <u>Lets me introduce myself 🧑🏻‍💼 . </u></p>
 
- - 👋 I am a Cloud Developer (<link src="https://www.cloudskillsboost.google/public_profiles/0e772187-73e1-461f-8c79-6bcaeffb3031" > Google Cloud Certified </link> ), and Front-End Web Developer :<br>
+ - 👋 I am a Cloud Developer (<src="https://www.cloudskillsboost.google/public_profiles/0e772187-73e1-461f-8c79-6bcaeffb3031" >Google Cloud Certified), and Front-End Web Developer :<br>
  - 👩‍💻 Java  |  HTML  |  CSS  |  Javascript  |  Node.js  |  React.js  |  Cloud Computation  |  DevOps
  - 🌐 I have a keen interest on developing Web applications 
  - 💭 I am intrested in projects that involve problem solving
