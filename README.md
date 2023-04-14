@@ -19,10 +19,11 @@
 
 
 ### You can connect with me from _here_ 📧:
-[<img height=40 width=40 align="centre" alt="Mail me" src="gmail.png">](mailto:sankalpforwork@gmail.com) &nbsp;&nbsp;
-[<img height=40 width=40 align="centre" alt="Connect on LinkedIn" src="linkedin.png">](https://www.linkedin.com/in/sankalpswarup/)  &nbsp;&nbsp;
-[<img height=40 width=40 align="centre" alt="Visit my Twitter Profile" src="twitter.png">](https://twitter.com/sankalp_swarup/)  &nbsp;&nbsp;
-[<img height=40 width=40 align="centre" alt="Visit my Facebook Profile" src="facebook.png">](https://www.facebook.com/sankalp.swarup/) &nbsp;&nbsp;
-[<img height=40 width=40 align="centre" alt="Visit my Instagram Profile" src="instagram.png">](https://www.instagram.com/sankalpswarup/) &nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img height=40 width=40 align="centre" alt="Mail me" src="gmail.png">](mailto:sankalpforwork@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;
+[<img height=40 width=40 align="centre" alt="Connect on LinkedIn" src="linkedin.png">](https://www.linkedin.com/in/sankalpswarup/)  &nbsp;&nbsp;&nbsp;&nbsp;
+[<img height=40 width=40 align="centre" alt="Visit my Twitter Profile" src="twitter.png">](https://twitter.com/sankalp_swarup/)  &nbsp;&nbsp;&nbsp;&nbsp;
+[<img height=40 width=40 align="centre" alt="Visit my Facebook Profile" src="facebook.png">](https://www.facebook.com/sankalp.swarup/) &nbsp;&nbsp;&nbsp;&nbsp;
+[<img height=40 width=40 align="centre" alt="Visit my Instagram Profile" src="instagram.png">](https://www.instagram.com/sankalpswarup/)
 <br>
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
