@@ -1,7 +1,7 @@
 ## <p align="center">Hello there,</p>
 >> # <p align="center">I'm Sankalp Swarup 👨🏻‍💻</p>
 
-### <p align="center"> <u>Lets me introduce myself 🧑🏻‍💼 . </u></p>
+### <p align="center"> <u>Lets me introduce myself 🧑🏻‍💼. </u></p>
 
  - 👋 I am a Cloud Developer (**Google Cloud Certified**  <img height=20 width=20  src="googlecloud.png">), and Front-End Web Developer  <img height=20 width=20  src="frontend.png">. <br>
  - 👩‍💻 Java | HTML | CSS | Bootstrap | Javascript | Node.js | React.js | Google Cloud Computing | Springboot | MySQL | Angular | Firebase 
