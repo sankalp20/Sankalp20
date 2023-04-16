@@ -4,7 +4,7 @@
 ### <p align="center"> <u>Lets me introduce myself 🧑🏻‍💼. </u></p>
 
  - 👋 I am a Cloud Developer (**Google Cloud Certified**  <img height=20 width=20  src="googlecloud.png">), and Front-End Web Developer  <img height=20 width=20  src="frontend.png">. <br>
- - 👩‍💻 Java | HTML | CSS | Bootstrap | Javascript | Node.js | React.js | Google Cloud Computing | Springboot | MySQL | Angular | Firebase 
+ - 👩‍💻 Java | HTML | CSS | Bootstrap | Javascript | Node.js | React.js | Google Cloud | Springboot | MySQL | Angular | Firebase 
  - 🌐 I have a keen interest on solving complex problems and strategise projects on high-ends.
  - 💭 I am intrested in projects that involve problem solving and add a new pitch to the existing ones for betterment.
  - ⚡ Fun fact: Try finding on your own !
